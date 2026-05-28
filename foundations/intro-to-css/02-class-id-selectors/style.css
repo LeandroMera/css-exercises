@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+/* Add CSS Styl,imoping */
+.impares{
+    background-color: rgb(247, 162, 162);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.second{
+    color: blue;
+    font-size: 24px;
+}
+
+.two{
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgb(42, 245, 177);
+    font-size: 24px;
+    font-weight: bold;
+}
